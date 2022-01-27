@@ -16,4 +16,4 @@ COST FACTOR ANALYSIS regarding the mean and median price of meals for 2 people a
 Use of basic plotting (.regplot) to show a low positive correlation between price of the restaurant and the ratings.
 Added Cumulative distributive curve with mean and median for prive of meal for 2 people.
 
-CURRENTLY WORKING ON - Use of geopandas, geopy, folium to create heatmaps on Open Street Map !!!
+Updated--> added wordcloud for cuisine types, and by restaurant types too for bakery, bar, beverage, cafe.
